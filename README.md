@@ -1,1 +1,1 @@
-py-calculator
+Your basic python calculator that uses +, -, *, /.
